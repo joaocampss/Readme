@@ -31,3 +31,5 @@ Sinta-se à vontade para contribuir! Basta abrir uma issue ou enviar um pull req
 ---
 
 Feito por [Joao Campanate]
+
+https://www.linkedin.com/in/joao-campanate/
